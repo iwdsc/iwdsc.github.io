@@ -2,38 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>International Workshop on Distributed Smart Cameras</title>
-    <link>http://example.org/</link>
+    <link>https://iwdsc.github.io/</link>
     <description>Recent content on International Workshop on Distributed Smart Cameras</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Apr 2021 20:01:15 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 Apr 2021 20:01:15 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iwdsc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Invited Speakers</title>
-      <link>http://example.org/invited_speakers/</link>
-      <pubDate>Mon, 19 Apr 2021 20:01:15 +0200</pubDate>
+      <title>Important Dates - Coming Soon</title>
+      <link>https://iwdsc.github.io/dates/</link>
+      <pubDate>Mon, 26 Apr 2021 20:01:15 +0200</pubDate>
       
-      <guid>http://example.org/invited_speakers/</guid>
-      <description>Invited Speakers Georgia Gkioxari Biography To appear
-Abstract To appear
-Nathan Jacobs Biography To appear
-Abstract To appear
-Juan Carlos Niebles Biography To appear
-Abstract To appear
-Sara Hooker Biography To appear
-Abstract To appear</description>
+      <guid>https://iwdsc.github.io/dates/</guid>
+      <description>Paper Registration Deadline	-, 2021 (11:59PM Pacific Time) Paper Submission Deadline	-, 2021 (11:59PM Pacific Time) Supplementary Materials Deadline	-, 2021 (11:59PM Pacific Time) Reviews Released to Authors	-, 2021 (11:59PM Pacific Time) Rebuttal Due	-, 2021 (11:59PM Pacific Time) Final Decisions to Authors	-, 2021 Camera ready due	-, 2021 (11:59PM Pacific Time) * submission date is fixed, no extension will be given</description>
     </item>
     
     <item>
-      <title></title>
-      <link>http://example.org/dates/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Program</title>
+      <link>https://iwdsc.github.io/program/</link>
+      <pubDate>Mon, 26 Apr 2021 20:01:15 +0200</pubDate>
       
-      <guid>http://example.org/dates/</guid>
-      <description>Important Dates - Coming Soon Paper Registration Deadline	-, 2021 (11:59PM Pacific Time) Paper Submission Deadline	-, 2021 (11:59PM Pacific Time) Supplementary Materials Deadline	-, 2021 (11:59PM Pacific Time) Reviews Released to Authors	-, 2021 (11:59PM Pacific Time) Rebuttal Due	-, 2021 (11:59PM Pacific Time) Final Decisions to Authors	-, 2021 Camera ready due	-, 2021 (11:59PM Pacific Time) * submission date is fixed, no extension will be given</description>
+      <guid>https://iwdsc.github.io/program/</guid>
+      <description>Coming Soon </description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>https://iwdsc.github.io/registration/</link>
+      <pubDate>Mon, 26 Apr 2021 20:01:15 +0200</pubDate>
+      
+      <guid>https://iwdsc.github.io/registration/</guid>
+      <description>Coming Soon </description>
+    </item>
+    
+    <item>
+      <title>Submissions</title>
+      <link>https://iwdsc.github.io/submissions/</link>
+      <pubDate>Mon, 26 Apr 2021 20:01:15 +0200</pubDate>
+      
+      <guid>https://iwdsc.github.io/submissions/</guid>
+      <description>We invite authors to submit unpublished papers (8-page ICCV format) to our workshop, to be presented at a poster session upon acceptance. All submissions will go through a double-blind review process. All contributions must be submitted (along with supplementary materials, if any) at this CMT link. Submission guidelines : http://iccv2021.thecvf.com/node/4#submission-guidelines </description>
+    </item>
+    
+    <item>
+      <title>Program Committee</title>
+      <link>https://iwdsc.github.io/program_committee/</link>
+      <pubDate>Mon, 19 Apr 2021 20:01:15 +0200</pubDate>
+      
+      <guid>https://iwdsc.github.io/program_committee/</guid>
+      <description>Steering Committee   Hamid Aghajan, Gent University, Belgium   Christian Micheloni, University of Udine, Italy   Fei-Fei Li, Stanford University, USA   Organizing Team   Niki Martinel, University of Udine, Italy   Ehsan Adeli, Stanford University, USA   Caifeng Shan, Shandong University of Science and Technology, China   Anima Anandkuma, Caltech/NVidia, USA   Yue Gao, Tsinghua University, China   Communications (Publicity/Social Media/Website) Chair   Rita Pucci, University of Udine, Italy   .</description>
     </item>
     
   </channel>

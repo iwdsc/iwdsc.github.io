@@ -3,26 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://iwdsc.github.io/dates/</loc>
+    <lastmod>2021-04-26T20:01:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iwdsc.github.io/</loc>
+    <lastmod>2021-04-26T20:01:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iwdsc.github.io/program/</loc>
+    <lastmod>2021-04-26T20:01:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iwdsc.github.io/registration/</loc>
+    <lastmod>2021-04-26T20:01:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iwdsc.github.io/submissions/</loc>
+    <lastmod>2021-04-26T20:01:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iwdsc.github.io/program_committee/</loc>
     <lastmod>2021-04-19T20:01:15+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/invited_speakers/</loc>
-    <lastmod>2021-04-19T20:01:15+02:00</lastmod>
+    <loc>https://iwdsc.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/dates/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://iwdsc.github.io/tags/</loc>
   </url>
   
 </urlset>

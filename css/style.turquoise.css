@@ -1298,6 +1298,7 @@ fieldset[disabled] .btn-template-primary.active {
   left: 0;
   bottom: 0;
   width: 100%;
+
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -1311,9 +1312,9 @@ fieldset[disabled] .btn-template-primary.active {
   width: 20%;
 }
 .testimonials .item .testimonial .name-picture {
-  float: right;
-  width: 80%;
-  text-align: right;
+  float: left;
+  display: block
+  width: 100%;
 }
 .testimonials .item .testimonial .name-picture h5 {
   font-size: 14px;
@@ -1326,7 +1327,7 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 12px;
 }
 .testimonials .item .testimonial .name-picture img {
-  float: right;
+  float: left;
   width: 150px;
   border-radius: 30px;
   margin-left: 10px;
@@ -3562,3 +3563,5 @@ a.list-group-item.active > .badge,
   left: 15px;
   right: 15px;
 }
+
+

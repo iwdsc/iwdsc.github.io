@@ -1233,6 +1233,11 @@ fieldset[disabled] .btn-template-primary.active {
 .customers {
   padding: 0;
   margin-bottom: 40px;
+  margin:auto;
+  padding:0;
+  position:relative;
+  left:8%;
+
 }
 .customers .item {
   list-style-type: none;
@@ -1260,11 +1265,12 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 0;
   margin-bottom: 40px;
 }
+/*Structure of the white boxes*/
 .testimonials .item {
   list-style-type: none;
-  margin: 0 5px;
+  margin: 0 10px;
   background: #fff;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -3376,6 +3382,7 @@ h6,
   font-weight: 900;
   line-height: 1.1;
   color: #333333;
+  font-size: 18px;
 }
 h1,
 .h1,
@@ -3409,6 +3416,7 @@ p {
 }
 .text-primary {
   color: #4fbfa8;
+  font-size: 12px;
 }
 a.text-primary:hover {
   color: #3aa18c;

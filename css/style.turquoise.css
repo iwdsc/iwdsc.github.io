@@ -1312,9 +1312,10 @@ fieldset[disabled] .btn-template-primary.active {
   width: 20%;
 }
 .testimonials .item .testimonial .name-picture {
-  float: left;
+  float: center;
   display: block
   width: 100%;
+  text-align: center;
 }
 .testimonials .item .testimonial .name-picture h5 {
   font-size: 14px;
@@ -1327,10 +1328,11 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 12px;
 }
 .testimonials .item .testimonial .name-picture img {
-  float: left;
+  float: center;
   width: 150px;
   border-radius: 30px;
-  margin-left: 10px;
+  margin-left: 0px;
+  /*margin-bottom: 2em;*/
 }
 .team-member {
   text-align: center;

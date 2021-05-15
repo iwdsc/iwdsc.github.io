@@ -49,6 +49,8 @@
   transform: translate3d(0, 0, 0);
 }
 /* general styles */
+
+
 a,
 button {
   -webkit-transition: all 0.2s ease-out;
@@ -306,9 +308,14 @@ ul.list-style-none {
 .navbar {
   border: none;
 }
+
+/*Menu header font size
+navbar-nav navbar-right
+dropdown*/
 .navbar ul.nav > li > a {
   text-transform: uppercase;
   text-decoration: underline;
+  font-size: 16px;
   font-weight: bold;
   letter-spacing: 0.08em;
   border-top: solid 5px transparent;

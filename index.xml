@@ -5,11 +5,44 @@
     <link>https://iwdsc.github.io/</link>
     <description>Recent content on International Workshop on Distributed Smart Cameras</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 26 Apr 2021 20:01:15 +0200</lastBuildDate>
+    <language>en-us</language><atom:link href="https://iwdsc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Georgia Gkioxari</title>
+      <link>https://iwdsc.github.io/georgia_gkioxari/</link>
+      <pubDate>Sun, 11 Jul 2021 20:01:15 +0200</pubDate>
+      
+      <guid>https://iwdsc.github.io/georgia_gkioxari/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://iwdsc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Juan Carlos Niebles</title>
+      <link>https://iwdsc.github.io/juan_carlos_niebles/</link>
+      <pubDate>Sun, 11 Jul 2021 20:01:15 +0200</pubDate>
+      
+      <guid>https://iwdsc.github.io/juan_carlos_niebles/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Nathan Jacobs</title>
+      <link>https://iwdsc.github.io/nathan_jacobs/</link>
+      <pubDate>Sun, 11 Jul 2021 20:01:15 +0200</pubDate>
+      
+      <guid>https://iwdsc.github.io/nathan_jacobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sara Hooker</title>
+      <link>https://iwdsc.github.io/sara_hooker/</link>
+      <pubDate>Sun, 11 Jul 2021 20:01:15 +0200</pubDate>
+      
+      <guid>https://iwdsc.github.io/sara_hooker/</guid>
+      <description>Bio: Sara Hooker is a research scientist at Google Brain working on training models that fulfill multiple desiderata. Her main research interests gravitate towards interpretability, model compression and security. In 2014, she founded Delta Analytics, a non-profit dedicated to bringing technical capacity to help non-profits across the world use machine learning for good.
+Draft title: Going Beyond Top-Line Metrics: Characterizing the Generalization Trade-offs Incurred By Compression
+Draft abstract: Compression techniques such as pruning and quantization are widely used to enable ML at the edge.</description>
+    </item>
     
     <item>
       <title>Important Dates</title>
@@ -21,7 +54,7 @@
 Paper Submission Deadline for main conference rejected papers (*): July 28, 2021 (11:59PM Pacific Time)
 Reviews Released to Authors: August 11, 2021 (11:59PM Pacific Time)
 Camera ready due: August 16, 2021 (11:59PM Pacific Time)
-(*) In case of rejection from ICCV, authors can submit their work to the workshop. Authors should address all ICCV reviewers&amp;rsquo; comments in the submitted paper and submit the ICCV reviews as supplementary material.</description>
+(*) In case of rejection from ICCV, authors can submit their work to the workshop. Authors should address all ICCV reviewers&#39; comments in the submitted paper and submit the ICCV reviews as supplementary material.</description>
     </item>
     
     <item>

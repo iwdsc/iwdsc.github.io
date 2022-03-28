@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>International Workshop on Distributed Smart Cameras</title>
+    <link>https://iwdsc.github.io/2021/</link>
+    <description>Recent content on International Workshop on Distributed Smart Cameras</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://iwdsc.github.io/2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Georgia Gkioxari</title>
+      <link>https://iwdsc.github.io/2021/georgia_gkioxari/</link>
+      <pubDate>Sun, 11 Jul 2021 20:01:15 +0200</pubDate>
+      
+      <guid>https://iwdsc.github.io/2021/georgia_gkioxari/</guid>
+      <description>Draft Title: Visual Recognition from One or More Images
+Draft Abstract: Building machines that see and recognize from visual inputs is not easy. In the last decade, there have been tremendous efforts in visual recognition by developing new ways to process image inputs, either in the form of single inputs or as streams. Our advances have allowed us to build systems which can recognize objects in 2D and 3D, identify their class and their pose or track them in time.</description>
+    </item>
+    
+    <item>
+      <title>Juan Carlos Niebles</title>
+      <link>https://iwdsc.github.io/2021/juan_carlos_niebles/</link>
+      <pubDate>Sun, 11 Jul 2021 20:01:15 +0200</pubDate>
+      
+      <guid>https://iwdsc.github.io/2021/juan_carlos_niebles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nathan Jacobs</title>
+      <link>https://iwdsc.github.io/2021/nathan_jacobs/</link>
+      <pubDate>Sun, 11 Jul 2021 20:01:15 +0200</pubDate>
+      
+      <guid>https://iwdsc.github.io/2021/nathan_jacobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sara Hooker</title>
+      <link>https://iwdsc.github.io/2021/sara_hooker/</link>
+      <pubDate>Sun, 11 Jul 2021 20:01:15 +0200</pubDate>
+      
+      <guid>https://iwdsc.github.io/2021/sara_hooker/</guid>
+      <description>Bio: Sara Hooker is a research scientist at Google Brain working on training models that fulfill multiple desiderata. Her main research interests gravitate towards interpretability, model compression and security. In 2014, she founded Delta Analytics, a non-profit dedicated to bringing technical capacity to help non-profits across the world use machine learning for good.
+Draft title: Going Beyond Top-Line Metrics: Characterizing the Generalization Trade-offs Incurred By Compression
+Draft abstract: Compression techniques such as pruning and quantization are widely used to enable ML at the edge.</description>
+    </item>
+    
+    <item>
+      <title>Important Dates</title>
+      <link>https://iwdsc.github.io/2021/dates/</link>
+      <pubDate>Mon, 26 Apr 2021 20:01:15 +0200</pubDate>
+      
+      <guid>https://iwdsc.github.io/2021/dates/</guid>
+      <description>Paper Submission Deadline:
+ 1st Round: July 28, 2021 (11:59PM Pacific Time) 2nd Round: August 4, 2021 (11:59PM Pacific Time)  Reviews Released to Authors:
+ 1st Round: August 3, 2021 (11:59PM Pacific Time) 2nd Round: August 11, 2021 (11:59PM Pacific Time)  Camera ready due: August 16, 2021 (11:59PM Pacific Time)</description>
+    </item>
+    
+    <item>
+      <title>Program</title>
+      <link>https://iwdsc.github.io/2021/program/</link>
+      <pubDate>Mon, 26 Apr 2021 20:01:15 +0200</pubDate>
+      
+      <guid>https://iwdsc.github.io/2021/program/</guid>
+      <description>Event duration: 8:30-18:30 (with lunch and coffee breaks)
+ Time Event Speaker     8:45-9:00 Welcome    9:00-9:45 Invited Talk 1    9:45-10:45 Oral Session I    10:45-11:00 Coffee Break    11:00-11:45 Invited Talk 2    11:45-14:15 Poster Session I and Lunch    14:15-15:00 Invited Talk 3    15:00-16:00 Oral Session II    16:00-16:30 Coffee Break    16:30-17:15 Invited Talk 4    17:15-18:30 Poster Session II      </description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>https://iwdsc.github.io/2021/registration/</link>
+      <pubDate>Mon, 26 Apr 2021 20:01:15 +0200</pubDate>
+      
+      <guid>https://iwdsc.github.io/2021/registration/</guid>
+      <description>Coming Soon </description>
+    </item>
+    
+    <item>
+      <title>Submissions</title>
+      <link>https://iwdsc.github.io/2021/submissions/</link>
+      <pubDate>Mon, 26 Apr 2021 20:01:15 +0200</pubDate>
+      
+      <guid>https://iwdsc.github.io/2021/submissions/</guid>
+      <description>IWSDC reviewing will be double blind. Each submitted paper will be revised by three experts.
+The paper length should match that intended for final publication. Papers are limited to 8 pages (excluding references), including figures and tables. While there is no limit to the number of references, reviewers are instructed to check for pertinence. Citation of any of the co-authors’ published work must be done in the third person. Reference to unpublished work can be made by anonymizing it, including it as supplementary material, and referencing it as Anonymous.</description>
+    </item>
+    
+    <item>
+      <title>Program Committee</title>
+      <link>https://iwdsc.github.io/2021/program_committee/</link>
+      <pubDate>Mon, 19 Apr 2021 20:01:15 +0200</pubDate>
+      
+      <guid>https://iwdsc.github.io/2021/program_committee/</guid>
+      <description>Steering Committee
+ Hamid Aghajan, Gent University, Belgium Christian Micheloni, University of Udine, Italy Fei-Fei Li, Stanford University, USA  Organizing Team
+ Niki Martinel, University of Udine, Italy Ehsan Adeli, Stanford University, USA Caifeng Shan, Shandong University of Science and Technology, China Anima Anandkuma, Caltech/NVidia, USA Yue Gao, Tsinghua University, China  Communications (Publicity/Social Media/Website) Chair
+ Rita Pucci, University of Udine, Italy  .</description>
+    </item>
+    
+  </channel>
+</rss>

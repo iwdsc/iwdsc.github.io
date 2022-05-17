@@ -74,7 +74,7 @@ button i[class^="fa"] {
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
-@media (max-width: 991px) {
+@media (max-width: 1000px) {
   .text-center-sm {
     text-align: center;
   }
